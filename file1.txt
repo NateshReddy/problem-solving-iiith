@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 hey natesh howare you.
 ik i'm awesomeeeeeee.
 <<<<<<< HEAD
@@ -11,3 +12,6 @@ ndj
 =======
 yooooooo
 >>>>>>> parent of 948c04e... Update file1.txt
+=======
+helo
+>>>>>>> MyBranch
