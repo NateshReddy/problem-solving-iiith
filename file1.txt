@@ -1,7 +1,11 @@
 <<<<<<< HEAD
 hey natesh howare you.
 ik i'm awesomeeeeeee.
+<<<<<<< HEAD
 yooooooo
 hello here again
 =======
 >>>>>>> parent of c8968e0... commit message:what changes were introduced
+=======
+yooooooo
+>>>>>>> parent of 948c04e... Update file1.txt
